@@ -1,4 +1,4 @@
-# 📊 Task 1: HR Analytics Dashboard
+# 📊 Task 2: HR Analytics Dashboard
 
 ## 📌 Details
 
