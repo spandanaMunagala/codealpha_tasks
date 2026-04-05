@@ -1,4 +1,4 @@
-# 📊 Task 1: Financial Dashboard
+# 📊 Task 1: HR Analytics Dashboard
 
 ## 📌 Details
 
